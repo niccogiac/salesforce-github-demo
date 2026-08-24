@@ -4,7 +4,7 @@
     <description>Field used to test Git and GitHub workflow</description>
     <externalId>false</externalId>
     <label>Git Demo</label>
-    <length>50</length>
+    <length>80</length>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Text</type>
